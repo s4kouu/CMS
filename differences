@@ -1,0 +1,30 @@
+Klucz jest taki: CMS pozwala tworzyć strony bez pisania kodu, ale HTML pozwala zrozumieć i samodzielnie zbudować to, co widzi użytkownik. Już tłumaczę na przykładach.
+1. CMS a HTML — czym się różnią?
+CMS (np. WordPress)
+Tworzysz stronę za pomocą gotowych bloków, szablonów i edytora wizualnego.
+Dodajesz nagłówki i zdjęcia.
+Zmieniasz kolory i układ.
+Publikujesz treści bez znajomości kodowania.
+HTML (język znaczników)
+Samodzielnie określasz strukturę strony internetowej za pomocą znaczników.
+Tworzysz własne elementy i sekcje.
+Masz większą kontrolę nad strukturą.
+Możesz budować rozwiązania niedostępne w gotowym edytorze.
+2. To po co informatycy piszą HTML?
+Jest kilka ważnych powodów.
+1. Nie każdą stronę da się wygodnie stworzyć w CMS-ie.
+Wyobraź sobie, że firma chce mieć nietypowy kalkulator, interaktywną mapę albo panel użytkownika. Gotowy CMS może nie oferować takich funkcji, więc programista tworzy własne rozwiązanie.
+2. CMS-y również korzystają z HTML-a.
+To najważniejsza rzecz! Nawet jeżeli tworzysz stronę w WordPressie, przeglądarka ostatecznie otrzymuje kod HTML, CSS i często JavaScript, które odpowiadają za wyświetlanie strony i jej działanie.
+CMS nie sprawia, że HTML przestaje istnieć — po prostu generuje go za Ciebie.
+3. HTML daje większą swobodę.
+W CMS-ie jesteś często ograniczona możliwościami szablonu, wtyczek i edytora. Pisząc własny kod, możesz stworzyć praktycznie dowolny układ, o ile potrafisz go odpowiednio zaprogramować.
+4. Informatycy nie zawsze tworzą zwykłe strony internetowe.
+Pracują również nad aplikacjami internetowymi, sklepami, systemami rezerwacji, panelami administracyjnymi i serwisami społecznościowymi. W takich projektach HTML jest jednym z podstawowych elementów interfejsu.
+5. Czy zatem warto uczyć się HTML-a?
+Zdecydowanie tak, jeśli interesujesz się informatyką lub tworzeniem stron.
+Warto jednak pamiętać, że te rozwiązania się nie wykluczają. Programiści często łączą CMS z własnym kodem, żeby korzystać z wygody gotowego systemu i jednocześnie rozszerzać jego możliwości.
+Najprostsze porównanie
+Wyobraź sobie, że CMS to gotowa kuchnia z szafkami, blatem i sprzętami. Możesz wygodnie przygotować w niej posiłek bez budowania wszystkiego od zera.
+HTML jest bardziej jak samodzielne projektowanie i budowanie kuchni — masz większą swobodę, ale potrzebujesz wiedzy i poświęcasz więcej czasu.
+CMS nie zastępuje HTML-a. Ukrywa przed użytkownikiem konieczność bezpośredniego pisania HTML-a. I właśnie dlatego informatycy nadal się go uczą i wykorzystują w pracy. 
